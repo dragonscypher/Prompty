@@ -39,7 +39,7 @@ pip install -r requirements.txt
 To get Prompty up and running, just follow these steps:
 
 1. Fire up your terminal.
-2. Run the script with `python prompty.py`.
+2. Run the script with `python gen.py` or you can run `small_gen.py`.
 3. Enter the description you want to turn into a prompt when asked.
 4. Watch Prompty do its magic! ✨
 
